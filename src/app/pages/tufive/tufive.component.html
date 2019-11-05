@@ -1,0 +1,44 @@
+<nz-card nzTitle="Scheduling of Operation Lines————Vessel:ASJ5——Voyage:0927">
+    <div nz-row class="all-button">
+        <div nz-col  nzSpan="12">
+            <nz-card nzTitle="Truck corresponding to the Quay crane">
+                <nz-descriptions [nzColumn]="4" nzTitle="User Info">
+                    <nz-descriptions-item nzTitle="Serial number"></nz-descriptions-item>
+                    <nz-descriptions-item nzTitle="Truck number"></nz-descriptions-item>
+                    <nz-descriptions-item nzTitle="category"></nz-descriptions-item>
+                    <nz-descriptions-item nzTitle="position"></nz-descriptions-item>
+                </nz-descriptions>
+            </nz-card>
+        </div>
+        <div nz-col nzSpan="4" nzOffset="20">
+            <nz-card nzTitle="Select  dispatch voyage">
+                <label nz-radio ngModel>import</label>
+                <br>
+                <button nz-button nzType="primary">voyage</button>
+            </nz-card>
+            <nz-card nzTitle="Quay crane zoom control" class="zuoyou">
+                <button nz-button nzType="primary" [nzSize]="'large'"><i nz-icon nzType="left-circle"
+                        nzTheme="twotone"></i></button>
+                &nbsp;
+                <button nz-button nzType="primary" [nzSize]="'large'"><i nz-icon nzType="right-circle"
+                        nzTheme="twotone"></i></button>
+            </nz-card>
+            <nz-card nzTitle="Control button">
+                <button nz-button nzType="primary">refresh</button>
+                <br>
+                <button nz-button nzType="primary">side view</button>
+                <br>
+                <button nz-button nzType="primary">auto mode</button>
+            </nz-card>
+            <nz-card nzTitle="Truck control">
+                <button nz-button nzType="primary">idle</button>
+                <br>
+                <button nz-button nzType="primary">refresh</button>
+            </nz-card>
+            <nz-card nzTitle="Quit">
+                <button nz-button nzType="primary">quit</button>
+            </nz-card>
+        </div>
+
+    </div>
+</nz-card>

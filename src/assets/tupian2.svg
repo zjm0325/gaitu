@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 赵宁图2.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="12.6054in" height="9.35502in"
+		viewBox="0 0 907.587 673.562" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#a8cfff;stroke:#c7c8c8;stroke-width:0.25}
+		.st2 {fill:#feffff;font-family:Times New Roman;font-size:0.833336em;font-weight:bold}
+		.st3 {font-size:1em}
+		.st4 {fill:#18457d;stroke:#c7c8c8;stroke-width:0.25}
+		.st5 {font-family:Segoe UI Emoji;font-size:1.20001em}
+		.st6 {font-size:1.20001em}
+		.st7 {font-family:Segoe UI Emoji;font-size:1em}
+		.st8 {fill:#ffff00;stroke:#e8ebf4;stroke-width:0.75}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(113.769,-446.29)">
+			<title>正方形</title>
+			<desc>CNSHA/CNTSN ZCSU2351046 40&#34; GP Flat Container IF 23800 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.85" dy="1.2em" class="st3">ZCSU2351046<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23800 ZIM<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">10H0610</tspan></text>		</g>
+		<g id="shape2-9" v:mID="2" v:groupContext="shape" transform="translate(227.155,-446.29)">
+			<title>正方形.2</title>
+			<desc>CNSHA/CNTSN CLHU4513744 40&#34; GP Flat Container IF 23400 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="24.75" dy="1.2em" class="st3">CLHU4513744<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23400 ZIM<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">10H0410</tspan></text>		</g>
+		<g id="shape3-17" v:mID="3" v:groupContext="shape" transform="translate(340.541,-446.29)">
+			<title>正方形.3</title>
+			<desc>CNSHA/CNTSN TTNU1709025 20&#34; GP Flat Container IF 24800 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.3" dy="1.2em" class="st3">TTNU1709025<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">24800 COS<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">09H0210</tspan></text>		</g>
+		<g id="shape4-25" v:mID="4" v:groupContext="shape" transform="translate(453.927,-446.29)">
+			<title>正方形.4</title>
+			<desc>CNSHA/CNTSN BSIU2096360 20&#34; GP Flat Container IF 23900 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="27.52" dy="1.2em" class="st3">BSIU2096360<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">23900 COS<v:newlineChar/></tspan><tspan
+						x="26.72" dy="1.399em" class="st3">09H0110</tspan><tspan class="st5">⭐</tspan><tspan class="st6">7</tspan></text>		</g>
+		<g id="shape5-35" v:mID="5" v:groupContext="shape" transform="translate(567.313,-446.29)">
+			<title>正方形.5</title>
+			<desc>CNSHA/CNTSN UXXU4251825 40&#34; GP Flat Container IF 23800 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="24.75" dy="1.2em" class="st3">UXXU4251825<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23800 ZIM<v:newlineChar/></tspan><tspan
+						x="26.72" dy="1.399em" class="st3">10H0310</tspan><tspan class="st5">⭐</tspan><tspan class="st6">6</tspan></text>		</g>
+		<g id="shape8-45" v:mID="8" v:groupContext="shape" transform="translate(113.769,-335.405)">
+			<title>正方形.8</title>
+			<desc>CNSHA/CNTSN CLHU4198949 40&#34; GP Flat Container IF 23900 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="24.75" dy="1.2em" class="st3">CLHU4198949<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23900 ZIM<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">10H0608</tspan></text>		</g>
+		<g id="shape9-53" v:mID="9" v:groupContext="shape" transform="translate(227.155,-335.405)">
+			<title>正方形.9</title>
+			<desc>CNSHA/CNTSN CLHU4196594 40&#34; GP Flat Container IF 24000 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="24.75" dy="1.2em" class="st3">CLHU4196594<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">24000 ZIM<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">10H0408</tspan></text>		</g>
+		<g id="shape10-61" v:mID="10" v:groupContext="shape" transform="translate(340.541,-335.405)">
+			<title>正方形.10</title>
+			<desc>CNSHA/CNTSN IPXU3463396 20&#34; GP Flat Container IF 24400 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="26.97" dy="1.2em" class="st3">IPXU3463396<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">24400 COS<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">09H0208</tspan></text>		</g>
+		<g id="shape11-69" v:mID="11" v:groupContext="shape" transform="translate(453.927,-335.405)">
+			<title>正方形.11</title>
+			<desc>CNSHA/CNTSN TTNU1995171 20&#34; GP Flat Container IF 24500 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.3" dy="1.2em" class="st3">TTNU1995171<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">24500 COS<v:newlineChar/></tspan><tspan
+						x="23.72" dy="1.399em" class="st3">09H0108</tspan><tspan class="st5">⭐</tspan><tspan class="st6">10</tspan></text>		</g>
+		<g id="shape12-79" v:mID="12" v:groupContext="shape" transform="translate(567.313,-335.405)">
+			<title>正方形.12</title>
+			<desc>CNSHA/CNTSN EISU1448392 40&#34; GP Flat Container IF 23000 EVG 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="27.52" dy="1.2em" class="st3">EISU1448392<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.11" dy="1.2em" class="st3">23000 EVG<v:newlineChar/></tspan><tspan
+						x="26.72" dy="1.399em" class="st3">10H0308</tspan><tspan class="st5">⭐</tspan><tspan class="st6">9</tspan></text>		</g>
+		<g id="shape15-89" v:mID="15" v:groupContext="shape" transform="translate(227.155,-224.52)">
+			<title>正方形.15</title>
+			<desc>CNSHA/CNTSN CCLU4566981 40&#34; GP Flat Container IF 26200 CSC 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.02" dy="1.2em" class="st3">CCLU4566981<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">26200 CSC<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">10H0406</tspan></text>		</g>
+		<g id="shape16-97" v:mID="16" v:groupContext="shape" transform="translate(340.541,-224.52)">
+			<title>正方形.16</title>
+			<desc>CNSHA/CNTSN TRLU2627039 20&#34; GP Flat Container IF 24400 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.3" dy="1.2em" class="st3">TRLU2627039<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">24400 COS<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">09H0206</tspan></text>		</g>
+		<g id="shape17-105" v:mID="17" v:groupContext="shape" transform="translate(453.927,-224.52)">
+			<title>正方形.17</title>
+			<desc>CNSHA/CNTSN IPXU3462281 20&#34; GP Flat Container IF 24500 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="26.97" dy="1.2em" class="st3">IPXU3462281<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">24500 COS<v:newlineChar/></tspan><tspan
+						x="23.72" dy="1.399em" class="st3">09H0106</tspan><tspan class="st5">⭐</tspan><tspan class="st6">12</tspan></text>		</g>
+		<g id="shape18-115" v:mID="18" v:groupContext="shape" transform="translate(567.313,-224.52)">
+			<title>正方形.18</title>
+			<desc>CNSHA/CNTSN CCLU4510827 40&#34; GP Flat Container IF 29700 CSC 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.02" dy="1.2em" class="st3">CCLU4510827<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">29700 CSC<v:newlineChar/></tspan><tspan
+						x="23.72" dy="1.399em" class="st3">10H0306</tspan><tspan class="st5">⭐</tspan><tspan class="st6">11</tspan></text>		</g>
+		<g id="shape21-125" v:mID="21" v:groupContext="shape" transform="translate(227.155,-113.636)">
+			<title>正方形.21</title>
+			<desc>CNSHA/CNTSN WFHU4106915 40&#34; GP Flat Container IF 29800 EVG 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="23.64" dy="1.2em" class="st3">WFHU4106915<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.11" dy="1.2em" class="st3">29800 EVG<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">10H0404</tspan></text>		</g>
+		<g id="shape22-133" v:mID="22" v:groupContext="shape" transform="translate(340.541,-113.636)">
+			<title>正方形.22</title>
+			<desc>CNSHA/CNTSN IPXU3281534 20&#34; GP Flat Container IF 24000 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="26.97" dy="1.2em" class="st3">IPXU3281534<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">24000 COS<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">09H0204</tspan></text>		</g>
+		<g id="shape23-141" v:mID="23" v:groupContext="shape" transform="translate(453.927,-113.636)">
+			<title>正方形.23</title>
+			<desc>CNSHA/CNTSN TTNU3452110 20&#34; GP Flat Container IF 24500 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.3" dy="1.2em" class="st3">TTNU3452110<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">24500 COS<v:newlineChar/></tspan><tspan
+						x="23.72" dy="1.399em" class="st3">09H0104</tspan><tspan class="st5">⭐</tspan><tspan class="st6">14</tspan></text>		</g>
+		<g id="shape24-151" v:mID="24" v:groupContext="shape" transform="translate(567.313,-113.636)">
+			<title>正方形.24</title>
+			<desc>CNSHA/CNTSN TGHU4462299 40&#34; GP Flat Container IF 29600 EVG 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="24.47" dy="1.2em" class="st3">TGHU4462299<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.11" dy="1.2em" class="st3">29600 EVG<v:newlineChar/></tspan><tspan
+						x="23.72" dy="1.399em" class="st3">10H0304</tspan><tspan class="st5">⭐</tspan><tspan class="st6">13</tspan></text>		</g>
+		<g id="shape32-161" v:mID="32" v:groupContext="shape" transform="translate(680.698,-446.29)">
+			<title>正方形.32</title>
+			<desc>CNSHA/CNTSN ZCSU2313257 40&#34; GP Flat Container IF 23800 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="589.76" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.85" dy="1.2em" class="st3">ZCSU2313257<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23800 ZIM<v:newlineChar/></tspan><tspan
+						x="28.57" dy="1.216em" class="st3">10H0510</tspan><tspan class="st7">⭐</tspan>5</text>		</g>
+		<g id="shape33-170" v:mID="33" v:groupContext="shape" transform="translate(680.698,-335.405)">
+			<title>正方形.33</title>
+			<desc>CNSHA/CNTSN ZCSU2512990 40&#34; GP Flat Container IF 23700 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.85" dy="1.2em" class="st3">ZCSU2512990<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23700 ZIM<v:newlineChar/></tspan><tspan
+						x="26.72" dy="1.399em" class="st3">10H0508</tspan><tspan class="st5">⭐</tspan><tspan class="st6">8</tspan></text>		</g>
+		<g id="shape39-180" v:mID="39" v:groupContext="shape" transform="translate(340.541,-0.25)">
+			<title>正方形.39</title>
+			<desc>CNSHA/CNTSN LNXU8004039 20&#34; GP Flat Container IF 24000 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.02" dy="1.2em" class="st3">LNXU8004039<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">24000 COS<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">09H0202</tspan></text>		</g>
+		<g id="shape40-188" v:mID="40" v:groupContext="shape" transform="translate(453.927,-0.25)">
+			<title>正方形.40</title>
+			<desc>CNSHA/CNTSN POCU0378203 20&#34; GP Flat Container IF 24900 COS 09...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.03" dy="1.2em" class="st3">POCU0378203<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">20&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.66" dy="1.2em" class="st3">24900 COS<v:newlineChar/></tspan><tspan
+						x="23.72" dy="1.399em" class="st3">09H0102</tspan><tspan class="st5">⭐</tspan><tspan class="st6">15</tspan></text>		</g>
+		<g id="shape41-198" v:mID="41" v:groupContext="shape" transform="translate(0.25,-559.926)">
+			<title>正方形.41</title>
+			<desc>CNSHA/CNTSN CLHU4121234 40&#34; GP Flat Container IF 23800 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="24.75" dy="1.2em" class="st3">CLHU4121234<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23800 ZIM<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">10H0812</tspan></text>		</g>
+		<g id="shape42-206" v:mID="42" v:groupContext="shape" transform="translate(793.951,-559.926)">
+			<title>正方形.42</title>
+			<desc>CNSHA/CNTSN FSCU6453699 40&#34; GP High Container IF 23800 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="26.14" dy="1.2em" class="st3">FSCU6453699<v:newlineChar/></tspan><tspan x="6" dy="1.2em" class="st3">40&#34; GP High Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23800 ZIM<v:newlineChar/></tspan><tspan
+						x="26.72" dy="1.399em" class="st3">10H0712</tspan><tspan class="st5">⭐</tspan><tspan class="st6">1</tspan></text>		</g>
+		<g id="shape44-216" v:mID="44" v:groupContext="shape" transform="translate(113.636,-559.926)">
+			<title>正方形.44</title>
+			<desc>CNSHA/CNTSN UESU4164021 40&#34; GP Flat Container IF 23800 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.85" dy="1.2em" class="st3">UESU4164021<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23800 ZIM<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">10H0612</tspan></text>		</g>
+		<g id="shape45-224" v:mID="45" v:groupContext="shape" transform="translate(227.022,-559.926)">
+			<title>正方形.45</title>
+			<desc>CNSHA/CNTSN ZCSU2287420 40&#34; GP Flat Container IF 10H0412</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="595.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.85" dy="1.2em" class="st3">ZCSU2287420<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="37.8" dy="1.2em" class="st3">10H0412</tspan></text>		</g>
+		<g id="shape46-231" v:mID="46" v:groupContext="shape" transform="translate(340.407,-559.926)">
+			<title>正方形.46</title>
+			<desc>CNSHA/CNTSN TRIU5580711 40&#34; GP Flat Container IF 23700 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st1"/>
+			<text x="20.85" y="589.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="26.69" dy="1.2em" class="st3">TRIU5580711<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23700 ZIM<v:newlineChar/></tspan><tspan
+						x="37.8" dy="1.2em" class="st3">10H0212</tspan></text>		</g>
+		<g id="shape47-239" v:mID="47" v:groupContext="shape" transform="translate(453.793,-559.926)">
+			<title>正方形.47</title>
+			<desc>CNSHA/CNTSN ZCSU2315075 40&#34; GP Flat Container IF 23900 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.85" dy="1.2em" class="st3">ZCSU2315075<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23900 ZIM<v:newlineChar/></tspan><tspan
+						x="25.47" dy="1.399em" class="st3">10H0112 </tspan><tspan class="st5">⭐</tspan><tspan class="st6">4</tspan></text>		</g>
+		<g id="shape48-249" v:mID="48" v:groupContext="shape" transform="translate(567.179,-559.926)">
+			<title>正方形.48</title>
+			<desc>CNSHA/CNTSN ZCSU2221130 40&#34; GP Flat Container IF 23800 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="25.85" dy="1.2em" class="st3">ZCSU2221130<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23800 ZIM<v:newlineChar/></tspan><tspan
+						x="26.72" dy="1.399em" class="st3">10H0312</tspan><tspan class="st5">⭐</tspan><tspan class="st6">3</tspan></text>		</g>
+		<g id="shape50-259" v:mID="50" v:groupContext="shape" transform="translate(680.565,-559.926)">
+			<title>正方形.50</title>
+			<desc>CNSHA/CNTSN TRIU5128907 40&#34; GP Flat Container IF 23700 ZIM 10...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="616.869" width="113.39" height="113.386"/>
+			<rect x="0" y="560.176" width="113.386" height="113.386" class="st4"/>
+			<text x="20.85" y="588.54" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CNSHA/CNTSN<v:newlineChar/><tspan
+						x="26.69" dy="1.2em" class="st3">TRIU5128907<v:newlineChar/></tspan><tspan x="7.95" dy="1.2em" class="st3">40&#34; GP Flat Container </tspan><tspan
+						x="51.69" dy="1.2em" class="st3">IF<v:newlineChar/></tspan><tspan x="32.94" dy="1.2em" class="st3">23700 ZIM<v:newlineChar/></tspan><tspan
+						x="26.72" dy="1.399em" class="st3">10H0512</tspan><tspan class="st5">⭐</tspan><tspan class="st6">2</tspan></text>		</g>
+		<g id="shape122-269" v:mID="122" v:groupContext="shape" transform="translate(882.959,-570.297)">
+			<title>工作表.122</title>
+			<path d="M11.46 673.17 L11.46 663.13 L17.01 663.13 L8.62 651.45 L0 663.46 L6.35 663.46 L6.35 673.56 L11.46 673.17 Z"
+					class="st8"/>
+		</g>
+	</g>
+</svg>

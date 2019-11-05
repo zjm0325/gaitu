@@ -1,0 +1,41 @@
+<nz-card>
+    <div nz-row>
+        <div nz-col nzSpan="4">
+            <nz-card nzTitle="Loading and unloading direction">
+                <label nz-radio ngModel>horizontal</label>
+                <label nz-radio ngModel>vertical</label>
+            </nz-card>
+        </div>
+        <div nz-col nzSpan="8">
+            <nz-card nzTitle="Command control">
+                <label nz-radio ngModel>search</label>
+                <label nz-radio ngModel>send</label>
+                <label nz-radio ngModel>receive</label>
+                <button nz-button nzSize="small" nzType="default">confirm</button>
+                <button nz-button nzSize="small" nzType="default">retrieve</button>
+            </nz-card>
+        </div>
+        <div nz-col nzSpan="6">
+            <nz-card nzTitle="Import container legend">
+                <nz-tag [nzColor]="'#A8CFFF'">unsent</nz-tag>
+                <nz-tag [nzColor]="'#18457D'">sent</nz-tag>
+                <nz-tag [nzColor]="'#757980'">unloaded</nz-tag>
+                <nz-tag [nzColor]="'#BCB9C9'">transit</nz-tag>
+            </nz-card>
+        </div>
+        <div nz-col nzSpan="6">
+            <nz-card nzTitle="Export container legend">
+                <nz-tag [nzColor]="'#FFA96D'">unsent</nz-tag>
+                <nz-tag [nzColor]="'#FF644B'">sent</nz-tag>
+                <nz-tag [nzColor]="'#662815'">loaded</nz-tag>
+                <nz-tag [nzColor]="'#C9C0B9'">locked</nz-tag>
+            </nz-card>
+        </div>
+    </div>
+    <div class="data">
+        vessel: GuoTai&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;voyage: E03&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;date: 2009-12-7&nbsp; 16:22:39
+    </div>
+    <div class="img">
+        <img src="assets/tupian6.svg" alt="">
+    </div>
+</nz-card>

@@ -1,0 +1,93 @@
+<nz-card>
+    <nz-breadcrumb class="breadcrumb">
+        <nz-breadcrumb-item>
+            出口装船
+        </nz-breadcrumb-item>
+        <nz-breadcrumb-item>
+            出口箱信息与出口舱单校核
+        </nz-breadcrumb-item>
+    </nz-breadcrumb>
+
+    <span class="title-font">
+        <strong>主文件</strong>
+        &nbsp;&nbsp;&nbsp;
+        有1个箱子与舱单不符,0个箱子溢箱,总箱数: 340
+    </span>
+    <nz-table #basicTable [nzData]="listOfData">
+        <thead>
+            <tr>
+                <th>箱号</th>
+                <th>卸货港</th>
+                <th>尺寸</th>
+                <th>箱型</th>
+                <th>货特</th>
+                <th>状态</th>
+                <th>提单号</th>
+                <th>箱重</th>
+                <th>溢?</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let data of basicTable.data">
+                <td>{{ data.a }}</td>
+                <td>{{ data.b }}</td>
+                <td>{{ data.c }}</td>
+                <td>{{ data.d }}</td>
+                <td>{{ data.e }}</td>
+                <td>{{ data.f }}</td>
+                <td>{{ data.g }}</td>
+                <td>{{ data.h }}</td>
+                <td>{{ data.i }}</td>
+            </tr>
+        </tbody>
+    </nz-table>
+
+
+    <span class="title-font">
+        <strong>实际装船箱数</strong>
+        &nbsp;&nbsp;&nbsp;
+        有1个箱子与在场箱不符,11个箱子溢箱,总箱数: 351
+    </span>
+    <nz-table #basicTable2 [nzData]="listOfData2">
+        <thead>
+            <tr>
+                <th>箱号</th>
+                <th>卸货港</th>
+                <th>尺寸</th>
+                <th>箱型</th>
+                <th>货特</th>
+                <th>状态</th>
+                <th>提单号</th>
+                <th>箱重</th>
+                <th>溢?</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let data of basicTable2.data">
+                <td>{{ data.a }}</td>
+                <td>{{ data.b }}</td>
+                <td>{{ data.c }}</td>
+                <td>{{ data.d }}</td>
+                <td>{{ data.e }}</td>
+                <td>{{ data.f }}</td>
+                <td>{{ data.g }}</td>
+                <td>{{ data.h }}</td>
+                <td>{{ data.i }}</td>
+            </tr>
+        </tbody>
+    </nz-table>
+
+
+    <span class="title-font">
+        <strong>待装箱数</strong>
+    </span>
+    <div class="content-font" nz-row>
+        <div nz-col nzSpan="4"></div>
+        <button nz-button nzType="primary"><i nz-icon nzType="setting" nzTheme="outline"></i>校核</button>
+        <button nz-button nzType="primary"><i nz-icon nzType="warning" nzTheme="outline"></i>溢箱</button>
+        <button nz-button nzType="primary"><i nz-icon nzType="exclamation" nzTheme="outline"></i>不一致</button>
+        <button nz-button nzType="primary"><i nz-icon nzType="edit" nzTheme="outline"></i>保存</button>
+        <button nz-button nzType="primary"><i nz-icon nzType="printer" nzTheme="outline"></i>打印</button>
+        <div nz-col nzSpan="4"></div>
+    </div>
+</nz-card>

@@ -1,0 +1,132 @@
+<nz-card>
+    <nz-table #nestedTable [nzData]="listOfParentData" [nzPageSize]="10">
+        <thead>
+            <tr>
+                <th nzShowExpand></th>
+                <th>提单号</th>
+                <th>交付条款</th>
+                <th>发货人</th>
+                <th>收货人</th>
+                <th>装货港</th>
+                <th>中转港</th>
+                <th>中转标志</th>
+                <th>卸货港</th>
+                <th>收货地</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody>
+            <ng-template ngFor let-data [ngForOf]="nestedTable.data">
+                <tr>
+                    <td nzShowExpand [(nzExpand)]="data.expand"></td>
+                    <td>{{ data.a }}</td>
+                    <td>{{ data.b }}</td>
+                    <td>{{ data.c }}</td>
+                    <td>{{ data.d }}</td>
+                    <td>{{ data.e }}</td>
+                    <td>{{ data.f }}</td>
+                    <td>{{ data.g }}</td>
+                    <td>{{ data.h }}</td>
+                    <td>{{ data.i }}</td>
+                    <td>
+                        <a>edit</a>
+                        <nz-divider nzType="vertical"></nz-divider>
+                        <a>delete</a>
+                    </td>
+                </tr>
+                <tr [nzExpand]="data.expand">
+                    <td></td>
+                    <td colspan="20">
+                        <nz-table #innerTable [nzData]="listOfParentData" [nzShowPagination]="false">
+                            <thead>
+                                <tr>
+                                    <th nzShowExpand></th>
+                                    <th>货物序号</th>
+                                    <th>货类代码</th>
+                                    <th>唛头数</th>
+                                    <th>唛头一</th>
+                                    <th>货总件数</th>
+                                    <th>货总重量</th>
+                                    <th>货总体积</th>
+                                    <th>货净重</th>
+                                    <th>包装类型</th>
+                                    <th>冷危信息</th>
+                                    <th>货物描述数</th>
+                                    <th>货物描述一</th>
+                                    <th>操作</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr *ngFor="let data of innerTable.data">
+                                    <td nzShowExpand [(nzExpand)]="data.expand"></td>
+                                    <td>1</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>1</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>包</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>
+                                        <a>edit</a>
+                                        <nz-divider nzType="vertical"></nz-divider>
+                                        <a>delete</a>
+                                    </td>
+                                </tr>
+                                <tr [nzExpand]="data.expand">
+                                    <td></td>
+                                    <td colspan="20">
+                                        <nz-table #moreInnerTable [nzData]="listOfChildrenData" [nzShowPagination]="false">
+                                            <thead>
+                                                <tr>
+                                                    <th>货物序号</th>
+                                                    <th>货类代码</th>
+                                                    <th>唛头数</th>
+                                                    <th>唛头一</th>
+                                                    <th>货总件数</th>
+                                                    <th>货总重量</th>
+                                                    <th>货总体积</th>
+                                                    <th>货净重</th>
+                                                    <th>包装类型</th>
+                                                    <th>冷危信息</th>
+                                                    <th>货物描述数</th>
+                                                    <th>货物描述一</th>
+                                                    <th>操作</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr *ngFor="let data of moreInnerTable.data">
+                                                    <td>{{data.a}}</td>
+                                                    <td>{{data.b}}</td>
+                                                    <td>{{data.c}}</td>
+                                                    <td>{{data.d}}</td>
+                                                    <td>{{data.e}}</td>
+                                                    <td>{{data.f}}</td>
+                                                    <td>{{data.g}}</td>
+                                                    <td>{{data.h}}</td>
+                                                    <td>{{data.i}}</td>
+                                                    <td>{{data.j}}</td>
+                                                    <td>{{data.k}}</td>
+                                                    <td>{{data.l}}</td>
+                                                    <td>
+                                                        <a>edit</a>
+                                                        <nz-divider nzType="vertical"></nz-divider>
+                                                        <a>delete</a>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </nz-table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </nz-table>
+                     </td>
+                 </tr>
+            </ng-template>
+        </tbody>
+    </nz-table>
+</nz-card>

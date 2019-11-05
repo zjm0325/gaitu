@@ -1,0 +1,44 @@
+<nz-card>
+    <div nz-row>
+        <nz-table #basicTable [nzData]="listOfData">
+            <thead>
+                <tr>
+                    <th>尺寸</th>
+                    <th>卸货港</th>
+                    <th>level 1</th>
+                    <th>level 2</th>
+                    <th>level 3</th>
+                    <th>level 4</th>
+                    <th>level 5</th>
+                    <th>level 6</th>
+                    <th>level 7</th>
+                    <th>level 8</th>
+                    <th>level 9</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let data of basicTable.data">
+                    <td>{{ data.a }}</td>
+                    <td>{{ data.b }}</td>
+                    <td>{{ data.c }}</td>
+                    <td>{{ data.d }}</td>
+                    <td>{{ data.e }}</td>
+                    <td>{{ data.f }}</td>
+                    <td>{{ data.g }}</td>
+                    <td>{{ data.h }}</td>
+                    <td>{{ data.i }}</td>
+                </tr>
+            </tbody>
+        </nz-table>
+        <div class="button-area">
+            <button nz-button nzType="primary">航次</button>
+            <button nz-button nzType="primary">刷新</button>
+            <button nz-button nzType="primary">分类</button>
+            <button nz-button nzType="primary">增加</button>
+            <button nz-button nzType="primary">删除</button>
+            <button nz-button nzType="primary">保存</button>
+            <button nz-button nzType="primary">打印</button>
+            <button nz-button nzType="primary">退出</button>
+        </div>
+    </div>
+</nz-card>

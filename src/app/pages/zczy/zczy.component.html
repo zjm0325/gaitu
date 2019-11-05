@@ -1,0 +1,84 @@
+<nz-card>
+    <nz-breadcrumb class="breadcrumb">
+        <nz-breadcrumb-item>
+            Tos
+        </nz-breadcrumb-item>
+        <nz-breadcrumb-item>
+            <a>进口装船</a>
+        </nz-breadcrumb-item>
+        <nz-breadcrumb-item>
+            装船摘要
+        </nz-breadcrumb-item>
+    </nz-breadcrumb>
+
+    <span class="title-font">
+        <strong>天津港第二港埠有限公司</strong>
+    </span>
+    <br>
+    <span class="title-font">
+        <strong>计划装船箱数</strong>
+    </span>
+    <nz-table #basicTable [nzData]="listOfData">
+        <thead>
+            <tr>
+                <th>尺寸</th>
+                <th>空箱</th>
+                <th>重箱</th>
+                <th>危险品</th>
+                <th>冰冻箱</th>
+                <th>合计</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let data of basicTable.data">
+                <td>{{ data.name }}</td>
+                <td>{{ data.a }}</td>
+                <td>{{ data.b }}</td>
+                <td>{{ data.c }}</td>
+                <td>{{ data.d }}</td>
+                <td>{{ data.e }}</td>
+            </tr>
+        </tbody>
+    </nz-table>
+
+
+    <span class="title-font">
+        <strong>实际装船箱数</strong>
+    </span>
+    <nz-table #basicTable2 [nzData]="listOfData2">
+        <thead>
+            <tr>
+                <th>尺寸</th>
+                <th>空箱</th>
+                <th>重箱</th>
+                <th>危险品</th>
+                <th>冰冻箱</th>
+                <th>合计</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let data of basicTable2.data">
+                <td>{{ data.name2 }}</td>
+                <td>{{ data.a2 }}</td>
+                <td>{{ data.b2 }}</td>
+                <td>{{ data.c2 }}</td>
+                <td>{{ data.d2 }}</td>
+                <td>{{ data.e2 }}</td>
+            </tr>
+        </tbody>
+    </nz-table>
+
+
+    <span class="title-font">
+        <strong>待装箱数</strong>
+    </span>
+    <div class="content-font" nz-row>
+        <div nz-col nzSpan="3">20': 257</div>
+        <div nz-col nzSpan="3">40': 62</div>
+        <div nz-col nzSpan="3">45': 0</div>
+        <div nz-col nzSpan="3">合计: 319</div>
+        <div nz-col nzSpan="4"><button nz-button nzType="primary">print</button></div>
+    </div>
+</nz-card>
